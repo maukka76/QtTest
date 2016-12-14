@@ -19,5 +19,5 @@ HEADERS  += mainwindow.h \
     mainwindow.h
 
 DISTFILES += \
-    installer.sh \
-    .gitignore
+    .gitignore \
+    installer.sh
