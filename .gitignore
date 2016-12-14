@@ -1,1 +1,5 @@
 *.o
+moc_*.cpp
+binary
+.qmake.stash
+Makefile
